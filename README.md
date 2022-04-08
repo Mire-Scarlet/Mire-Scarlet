@@ -1,7 +1,7 @@
 # Hi! I'm Mireya (but I'd be happy if you call me Mire 😊)  👋
 
 ## I'm a Front-End Developer and English-Spanish Translator✨
-#33 日本語もできるよ！へへ　
+### 日本語もできるよ！へへ　
 
 
 I'm passionate about web development, so here you'll find some of:
