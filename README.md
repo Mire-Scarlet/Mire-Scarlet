@@ -1,9 +1,18 @@
-### Hi there 👋
+### Hi! I'm Mireya (but I'd be happy if you call me Mire 😊)  👋
+
+## I'm a Front-End Developer and English-Spanish Translator✨
+#日本語もできるよ！へへ　
+
+
+I'm passionate about web development, so here you'll find some of:
+
+
+
 
 <!--
 **Mire-Scarlet/Mire-Scarlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:　
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
