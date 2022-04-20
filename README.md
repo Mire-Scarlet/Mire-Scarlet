@@ -4,7 +4,7 @@
 ### 日本語もできるよ！へへ　
 
 
-I'm passionate about web development, so here you'll find some of:
+
 
 
 
