@@ -1,4 +1,4 @@
-# Hi! I'm Mireya (but I'd be happy if you call me Mire 😊)  👋
+# Hi! I'm Mireya (but just call me Mire 😊)  👋
 
 **I'm a Front-End Developer and English-Spanish Translator✨**
 > 日本語もできるよ！へへ　
