@@ -10,6 +10,7 @@
 <a href="https://www.linkedin.com/in/mire-frontdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
 
+<br />
 
 <h3 align="center">My main Languages and Tools are:</h3>
 <p align="center">
@@ -22,6 +23,7 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
+<br />
 <p align="center"> Stay hydrated! </p>
 
 
