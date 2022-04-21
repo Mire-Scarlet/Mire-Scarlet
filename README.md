@@ -1,5 +1,5 @@
 
-<h1 align="center"> # Hi! I'm Mireya (but just call me Mire 😊)  👋</h1>
+<h1 align="center"> Hi! I'm Mireya (but just call me Mire 😊)  👋</h1>
 <h3 align="center">I'm a Front end Developer and English-Spanish Translator</h3>
 <h4 align="center">日本語もできるよ！へへ　</h3>
 
